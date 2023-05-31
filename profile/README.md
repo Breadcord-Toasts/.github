@@ -1,2 +1,2 @@
 # Breadcord Toasts
-A place for [Fripe](https://github.com/Fripe079)'s [breadcord](https://github.com/Breadcord) modules.
+A collection of [breadcord](https://github.com/Breadcord) modules created by [Fripe](https://github.com/Fripe079).
